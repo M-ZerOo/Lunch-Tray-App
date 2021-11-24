@@ -1,28 +1,25 @@
-Lunch Tray - Starter Code
+Lunch Tray App
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+This app contains an order flow for food menu with options for entree, side, and accompaniment. The order details get displayed on an checkout summary screen to submit order.
 
-Introduction
-------------
-
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
+This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments, data binding, LiveData, and the Jetpack Navigation component.
 
 Pre-requisites
 --------------
 
-- Complete Unit 3 of Android Basics in Kotlin
+    Familiar with activities and fragments
+    How to use styles and themes in the UI
+    Basic understanding of Jetpack architecture components including ViewModel and LiveData
+    Data binding and binding expressions
+    Kotlin syntax basics
+
 
 Getting Started
 ---------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+1.  Install Android Studio, if you don't already have it.
+2.  Download the sample.
+3.  Import the sample into Android Studio.
+4.  Build and run the sample.
 
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
