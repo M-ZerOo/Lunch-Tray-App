@@ -8,11 +8,11 @@ This app demonstrates multiple fragments in an activity, a shared ViewModel acro
 Pre-requisites
 --------------
 
-    Familiar with activities and fragments
-    How to use styles and themes in the UI
-    Basic understanding of Jetpack architecture components including ViewModel and LiveData
-    Data binding and binding expressions
-    Kotlin syntax basics
+*   Familiar with activities and fragments
+*   How to use styles and themes in the UI
+*   Basic understanding of Jetpack architecture components including ViewModel and LiveData
+*   Data binding and binding expressions
+*   Kotlin syntax basics
 
 
 Getting Started
